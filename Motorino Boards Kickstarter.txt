@@ -1,0 +1,17 @@
+Motorino Boards
+
+> Early Bird board
+
+> Standard
+
+> Addons
+	- Bluetooth HC05 Module - £5
+	- 2x TT Motors - £ 6
+	- 3D Printed Chassis to fit module into
+
+> Educational kit
+	- Standard
+	- Bluetooth HC05 Module
+	- 2x TT Motors
+	- 3D Printed Chassis to fit module into
+	- PDF with tasks and sample code
